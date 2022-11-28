@@ -1,11 +1,11 @@
 <!--
  * @Author: sjhuang
  * @Date: 2022-11-12 23:51:09
- * @LastEditTime: 2022-11-28 20:46:08
+ * @LastEditTime: 2022-11-28 20:52:28
  * @FilePath: /weekly_papers/README.md
 -->
 # weekly-papers
-
+![logo.png](statics/logo.jpeg)
 ## papers 
 ### 20221107~20221112
 - [SimDR](https://arxiv.org/abs/2107.03332)
